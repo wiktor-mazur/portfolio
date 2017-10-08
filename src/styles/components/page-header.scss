@@ -1,0 +1,189 @@
+.page-header
+{
+	background-image: url('../img/bg.jpeg');
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 45px;
+	padding-bottom: 15px;
+	border-bottom: 5px solid #000000;
+	position: relative;
+
+	&__logo-wrapper {
+		width: 70%;
+		max-width: 300px;
+		display: block;
+		margin: 0 auto;
+
+		&__logo {
+			width: 100%;
+			display: block;
+			position: relative;
+
+			&__text {
+				width: 330px;
+				position: absolute;
+				background-size: 100%;
+				background-repeat: no-repeat;
+				background-position: center center;
+				overflow: hidden;
+
+				&--wiktormazur {
+					height: 59px;
+					right: -16px;
+					top: 22px;
+					background-image: url('../img/text_wiktormazur.png');
+					z-index: 1;
+				}
+
+				&--codingwithpassion {
+					height: 28px;
+					right: -16px;
+					top: 86px;
+					background-image: url('../img/text_codingwithpassion.png');
+					z-index: 2;
+				}
+			}
+
+			&--default {
+				padding-bottom: 80px;
+			}
+
+			&--wide {
+				width: 650px;
+				height: 130px;
+				background-image: url('../img/logo-wide.png');
+				background-position: center center;
+				background-size: cover;
+				background-repeat: no-repeat;
+				position: relative;
+				display: none;
+			}
+
+			&--mini {
+				display: none;
+			}
+
+
+			&__mask {
+				position: absolute;
+				animation-name: animLogoMask;
+				animation-iteration-count: 1;
+				animation-timing-function: linear;
+
+				&--name-white {
+					opacity: 0;
+					width: 307px;
+					height: 55px;
+					background: #f8f8f8;
+					top: 28px;
+					left: 348px;
+					z-index: 1;
+				}
+
+				&--name {
+					width: 0;
+					height: 55px;
+					background: #231f20;
+					top: 28px;
+					left: 348px;
+					z-index: 2;
+				}
+
+				&--slogan-white {
+					opacity: 0;
+					width: 307px;
+					height: 30px;
+					background: #f8f8f8;
+					top: 86px;
+					left: 348px;
+					z-index: 1;
+				}
+
+				&--slogan {
+					width: 0;
+					height: 30px;
+					background: #3a3a3a;
+					top: 86px;
+					left: 348px;
+					z-index: 2;
+				}
+			}
+		}
+	}
+
+	&__arrow-bottom {
+		position: absolute;
+		bottom: -13px;
+		left: 50%;
+		transform: translateX(-50%);
+		width: 0; 
+		height: 0; 
+		border-left: 20px solid transparent;
+		border-right: 20px solid transparent;
+		border-top: 13px solid #000;
+	}
+
+	&__animation-wrapper,
+	&__clouds-wrapper {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+		height: 200px;
+		overflow: hidden;
+		pointer-events: none;
+	}
+
+	&__clouds-wrapper {
+		height: 350px;
+	}
+
+	&__clouds {
+		width: 2360px;
+		height: 350px;
+		background-image: url('../img/clouds.png');
+		background-size: 100%;
+		background-position: center center;
+		background-repeat: no-repeat;
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		pointer-events: none;
+	}
+}
+
+@media screen and (min-width: 1000px)
+{
+	.page-header
+	{
+		background-image: url('../img/bg-desktop.jpg');
+		background-position-y: 40%;
+		height: 800px;
+
+		&__logo-wrapper {
+
+			width: $page-width-percentage;
+			max-width: $page-width;
+			margin: 0 auto;
+			height: 100%;
+			text-align: left;
+			display: flex;
+			align-items: center;
+			justify-content: flex-start;
+
+			&__logo {
+				width: 650px;
+				transform: translateY(-100px);
+
+				&--default {
+					display: none;
+				}
+
+				&--wide {
+					display: block;
+				}
+			}
+		}
+	}
+}

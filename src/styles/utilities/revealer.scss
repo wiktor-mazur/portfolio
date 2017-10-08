@@ -1,0 +1,18 @@
+.revealer-overlay
+{
+	width: 100.1%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 5;
+
+	&__mask {
+		width: 0%;
+		height: 100%;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		z-index: 6;
+	}
+}

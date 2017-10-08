@@ -1,0 +1,18 @@
+.page-footer
+{
+	background-color: #333333;
+
+	&__go-top {
+		border: 0;
+		background: transparent;
+		text-align: center;
+		width: 100%;
+		padding: 40px 0;
+		cursor: pointer;
+
+		& img {
+			width:200px;
+		}
+	}
+}
+

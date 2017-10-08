@@ -1,0 +1,26 @@
+.page-section
+{
+	margin: 50px 0;
+}
+
+.section-heading
+{
+	margin-top: 0;
+	margin-bottom: 40px;
+	width: 100%;
+	text-align: center;
+	position: relative;
+	z-index: 1;
+
+	&::after {
+		content: '';
+		display: block;
+		position: absolute;
+		bottom: -18px;
+		left: 50%;
+		transform: translateX(-50%);
+		width: 20px;
+		height: 2px;
+		background-color: #000000;
+	}
+}

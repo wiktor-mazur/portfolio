@@ -1,0 +1,47 @@
+.about
+{
+	padding: 0 30px;
+	text-align: center;
+
+	& p {
+		font-size: 0.95rem;
+	}
+}
+
+@media screen and (min-width: 550px)
+{
+	.about {
+		margin: 0;
+		padding: 50px;
+		background-color: #f7f7f7;
+
+		& p {
+			font-size: 1rem;
+		}
+
+		&__wrapper {
+			width: 100%;
+			max-width: $page-width;
+			padding: 30px;
+			margin: 0 auto;
+			background-color: #ffffff;
+
+			&__text {
+				width: 100%;
+				max-width: 510px;
+				margin: 0 auto;
+			}
+		}
+	}
+}
+
+@media screen and (min-width: 850px)
+{
+	.about {
+		padding: 90px;
+
+		&__wrapper {
+			padding: 70px;
+		}
+	}
+}

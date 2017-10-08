@@ -1,0 +1,91 @@
+.page-header__shapes-wrapper
+{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 3;
+	pointer-events: none;
+	overflow: hidden;
+}
+
+.shape,
+.shape-wrapper
+{
+	position: absolute;
+}
+
+.triangle
+{
+	border-top: 35px solid #e6e6ec;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	opacity: 0.5;
+}
+
+.shape-wrapper--0
+{
+	right: 8%;
+	top: 12%;
+}
+
+.shape-wrapper--1
+{
+	left: 23%;
+	top: 64%;
+}
+
+.shape-wrapper--2
+{
+	left: 7%;
+	top: 50%;
+}
+
+.shape-wrapper--3
+{
+	right: 20%;
+	top: 66%;
+}
+
+.shape-wrapper--4
+{
+	right: 6%;
+	top: 77%;
+}
+
+.shape-wrapper--5
+{
+	left: 14%;
+	top: 20%;
+}
+
+.triangle--0
+{
+	transform: rotate(82deg) scale(2);
+}
+
+.triangle--1
+{
+	transform: rotate(92deg) scale(1.7);
+}
+
+.triangle--2
+{
+	transform: rotate(135deg) scale(2.3);
+}
+
+.triangle--3
+{
+	transform: rotate(157deg) scale(2.4);
+}
+
+.triangle--4
+{
+	transform: rotate(23deg) scale(1.5);
+}
+
+.triangle--5
+{
+	transform: rotate(135deg) scale(1.2);
+}

@@ -1,0 +1,1157 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"contact_face",
+				"contact_facebook"
+			],
+			[
+				"contact_facebo",
+				"contact_facebook_url"
+			],
+			[
+				"contact_phone",
+				"contact_phone_label"
+			],
+			[
+				"offert",
+				"offert_menu_label"
+			],
+			[
+				"about",
+				"about_hash"
+			],
+			[
+				"main",
+				"main_content_header"
+			],
+			[
+				"main_conten",
+				"main_content_hash"
+			],
+			[
+				"chan",
+				"change_lang_label"
+			],
+			[
+				"change_",
+				"change_lang_description"
+			],
+			[
+				"cv_",
+				"cv_menu_label"
+			],
+			[
+				"open",
+				"openMenu"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"shape",
+				"shape-wrapper"
+			],
+			[
+				"doc",
+				"documentElement"
+			],
+			[
+				"getCss",
+				"getCssUnit"
+			],
+			[
+				"anima",
+				"animation"
+			],
+			[
+				"ani",
+				"animationSymbol"
+			],
+			[
+				"tra",
+				"transformProperties"
+			],
+			[
+				"attr",
+				"attribute"
+			],
+			[
+				"new",
+				"newTransform"
+			],
+			[
+				"decom",
+				"decomposedTransform"
+			],
+			[
+				"trans",
+				"transformObj"
+			],
+			[
+				"tran",
+				"transformProperties"
+			],
+			[
+				"transformP",
+				"transformPropertiesRegexp"
+			],
+			[
+				"perspe",
+				"perspectiveMatrix"
+			],
+			[
+				"right",
+				"rightHandSide"
+			],
+			[
+				"inverse",
+				"inversePerspectiveMatrix"
+			],
+			[
+				"deso",
+				"decomposeMatrix2d"
+			],
+			[
+				"openMenu",
+				"openMenuButton"
+			],
+			[
+				"set",
+				"setCssValue"
+			],
+			[
+				"animatio",
+				"animationLogic"
+			],
+			[
+				"scrollLink",
+				"scrollLinkSelector"
+			],
+			[
+				"rot",
+				"rotateY"
+			],
+			[
+				"per",
+				"percentageVisibility"
+			],
+			[
+				"perce",
+				"percentVisible"
+			],
+			[
+				"anim",
+				"animationTime"
+			],
+			[
+				"anmi",
+				"animationTime"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"paddi",
+				"padding-bottom: "
+			],
+			[
+				"animati",
+				"animation-duration: "
+			],
+			[
+				"animation",
+				"animation-delay: "
+			],
+			[
+				"animat",
+				"animation-delay: "
+			],
+			[
+				"backg",
+				"background: "
+			],
+			[
+				"backgr",
+				"background-attachment: "
+			],
+			[
+				"align-",
+				"align-items: "
+			],
+			[
+				"align",
+				"align-items: "
+			],
+			[
+				"portf",
+				"portfolio__list__item"
+			],
+			[
+				"transla",
+				"translateY()"
+			],
+			[
+				"backgro",
+				"background-repeat"
+			],
+			[
+				"word-",
+				"word-spacing"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"seconds",
+				"secondsHand"
+			],
+			[
+				"ob_end",
+				"ob_end_flush"
+			],
+			[
+				"upload",
+				"upload_dir"
+			],
+			[
+				"tag",
+				"tag-cloud-wrapper"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"item",
+				"item_exists"
+			],
+			[
+				"galle",
+				"gallery_exists"
+			],
+			[
+				"atta",
+				"attachment"
+			],
+			[
+				"attac",
+				"attach_id"
+			],
+			[
+				"meta",
+				"meta_value"
+			],
+			[
+				"calacosta",
+				"calacostacom"
+			],
+			[
+				"date",
+				"date_gmt"
+			],
+			[
+				"pdf",
+				"pdf_content"
+			],
+			[
+				"rece",
+				"receivedData"
+			],
+			[
+				"genera",
+				"generateRemovalCode"
+			],
+			[
+				"day",
+				"dayOfTheYear"
+			],
+			[
+				"messa",
+				"messageTextsPL"
+			],
+			[
+				"parag",
+				"paragraph02"
+			],
+			[
+				"message",
+				"messageTexts"
+			],
+			[
+				"success",
+				"successResponse"
+			],
+			[
+				"newsl",
+				"newsletter-page"
+			],
+			[
+				"request",
+				"requestType"
+			],
+			[
+				"newsletter",
+				"newsletterLastOpen"
+			],
+			[
+				"cala",
+				"cala_query_args"
+			],
+			[
+				"cala_q",
+				"cala_query_args"
+			],
+			[
+				"fav",
+				"fav_properties"
+			],
+			[
+				"prope",
+				"property_region"
+			],
+			[
+				"mb",
+				"mb_prop_area"
+			],
+			[
+				"proe",
+				"property_type"
+			],
+			[
+				"agent",
+				"agents_amount"
+			],
+			[
+				"age",
+				"agents_amount"
+			],
+			[
+				"json",
+				"json_file_path"
+			],
+			[
+				"galler",
+				"gallery_links"
+			],
+			[
+				"ga",
+				"gallery_ids"
+			],
+			[
+				"post",
+				"post_category"
+			],
+			[
+				"region",
+				"region_assigned"
+			],
+			[
+				"ty",
+				"type_assigned"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"Wordpre",
+				"WordpressClient"
+			],
+			[
+				"max",
+				"max_num_pages"
+			],
+			[
+				"ma",
+				"max_num_pages"
+			],
+			[
+				"footer",
+				"footer_aboutus"
+			],
+			[
+				"agents-wrapper",
+				"agents-wrapper__item"
+			],
+			[
+				"property_",
+				"property__agent__text"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"nex",
+				"nextReference"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"page",
+				"page-footer__section"
+			],
+			[
+				"search",
+				"search-properties__form"
+			],
+			[
+				"hover",
+				"hovereffect"
+			],
+			[
+				"gallery",
+				"gallery_items"
+			],
+			[
+				"para",
+				"paragraph--light"
+			],
+			[
+				"player",
+				"playersOnline"
+			],
+			[
+				"players",
+				"playersOnlineInPercentage"
+			],
+			[
+				"server-sta",
+				"server-status__bar"
+			],
+			[
+				"server",
+				"server-status__users-online"
+			],
+			[
+				"se",
+				"server-status__server-name"
+			],
+			[
+				"server-",
+				"server-status__bar"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"hp-serv",
+				"hp-services__item"
+			],
+			[
+				"clea",
+				"clean_images"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.php",
+			"settings":
+			{
+				"buffer_size": 24504,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 80,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1115,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "base.config.js",
+			"settings":
+			{
+				"buffer_size": 1137,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/styles/vendor/fonts.css",
+			"settings":
+			{
+				"buffer_size": 190,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "production.config.js",
+			"settings":
+			{
+				"buffer_size": 1402,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 185.0,
+		"last_filter": "theme",
+		"selected_items":
+		[
+			[
+				"theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"materia",
+				"Material Theme: Advanced configuration"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Nivelis/Desktop/Portfolio",
+		"/Users/Nivelis/Desktop/Portfolio/src",
+		"/Users/Nivelis/Desktop/Portfolio/src/styles",
+		"/Users/Nivelis/Desktop/Portfolio/src/styles/components",
+		"/Users/Nivelis/Desktop/Portfolio/src/styles/config",
+		"/Users/Nivelis/Desktop/Portfolio/src/styles/utilities",
+		"/Users/Nivelis/Desktop/Portfolio/src/styles/vendor"
+	],
+	"file_history":
+	[
+		"/Users/Nivelis/Desktop/Portfolio/src/styles/components/navigation.scss",
+		"/Users/Nivelis/Desktop/Portfolio/src/styles/utilities/particles.scss",
+		"/Users/Nivelis/Desktop/Portfolio/src/styles/utilities/menu-hamburger.scss",
+		"/Users/Nivelis/Desktop/Portfolio/src/styles/utilities/clearfix.scss",
+		"/Users/Nivelis/Desktop/Portfolio/src/styles/utilities/sr-only.scss",
+		"/Users/Nivelis/Desktop/Portfolio/src/styles/utilities/revealer.scss",
+		"/Users/Nivelis/Desktop/Portfolio/src/styles/vendor/fontello.css",
+		"/Users/Nivelis/Desktop/Portfolio/src/styles/vendor/normalize.css",
+		"/Users/Nivelis/Desktop/Portfolio/package.json",
+		"/Users/Nivelis/Desktop/Portfolio/production.config.js",
+		"/Users/Nivelis/Desktop/Portfolio/src/scripts/index.js",
+		"/Users/Nivelis/Desktop/Portfolio/src/scripts/components/shapes.js",
+		"/Users/Nivelis/Desktop/Portfolio/src/scripts/utilities/animation.js",
+		"/Users/Nivelis/Desktop/Portfolio/src/scripts/components/navigation.js",
+		"/Users/Nivelis/Desktop/Portfolio/README.md",
+		"/Users/Nivelis/Desktop/Portfolio/postcss.config.js",
+		"/Users/Nivelis/Desktop/Portfolio/LICENSE",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/components/image3dRotator.js",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/components/clouds.js",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/components/parallax.js",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/index.js",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/components/shapes.js",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/components/revealer.js",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/utilities/animation.js",
+		"/F/Repozytoria/Wiktor Mazur/base.config.js",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/components/navigation.js",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/components/page-header.scss",
+		"/F/Informatyczne/Work/Webdeveloping/KrauzaMiodu.pl/KrauzaMiodu - wersja produkcyjna/js/script.js",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/components/navigation.scss",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/config/typography.scss",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/components/shapes.scss",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/components/ui.scss",
+		"/F/Repozytoria/Wiktor Mazur/src/index.html",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/utilities/revealer.js",
+		"/F/Repozytoria/Wiktor Mazur/package.json",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/utilities/revealer.scss",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/utilities/debounce.js",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/components/portfolio.scss",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/utilities/image3dRotator.js",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/utilities/parallax.js",
+		"/C/Users/Nivelis/Desktop/easing_function_generator.fla",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/utilities/webkitCssMatrixExtension.js",
+		"/C/Users/Nivelis/Desktop/XCSSMatrix-master/lib/XCSSMatrix.js",
+		"/C/Users/Nivelis/Desktop/XCSSMatrix-master/dist/browserify/XCSSMatrix.js",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/vendor/fonts.css",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/vendor/fontello.css",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/main.scss",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/utilities/particles.scss",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/utilities/clearfix.scss",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/components/offert.scss",
+		"/F/Repozytoria/Wiktor Mazur/dev.config.js",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/utilities/sr-only.scss",
+		"/C/Users/Nivelis/Desktop/Nowy folder (2)/Pytania JS/index.html",
+		"/F/Repozytoria/Wiktor Mazur/src/scripts/components/particles.js",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/config/measurements.scss",
+		"/C/Users/Nivelis/Desktop/backup 03092017.sql",
+		"/C/Users/Nivelis/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/Nivelis/AppData/Local/Temp/Rar$DRa0.364/fontello-c5854871/css/fontello.css",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/utilities/menu-hamburger.scss",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/components/general.scss",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/components/page-footer.scss",
+		"/F/Informatyczne/Work/Webdeveloping/Moje portfolio/HTML/script.js",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/components/contact.scss",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/components/about.scss",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/vendor/normalize.css",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/utilities/debounce.js",
+		"/F/Repozytoria/Wiktor Mazur/production.config.js",
+		"/C/PROGRAMY/startpage.html",
+		"/C/Users/Nivelis/Desktop/logo.svg",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/vendor/icomoon.css",
+		"/C/Users/Nivelis/AppData/Local/Temp/Rar$DRa0.289/style.css",
+		"/F/Repozytoria/Wiktor Mazur/src/img/logo.svg",
+		"/F/Repozytoria/Wiktor Mazur/src/styles/config/sizes.scss",
+		"/F/Repozytoria/Wiktor Mazur/distsadasd/css/style.css",
+		"/F/Repozytoria/Wiktor Mazur/distsadasd/index.html",
+		"/F/Repozytoria/Wiktor Mazur/dist/index.html",
+		"/F/Repozytoria/Wiktor Mazur/dist/css/style.css",
+		"/C/Users/Nivelis/Desktop/intro/style.css",
+		"/C/Users/Nivelis/Desktop/intro/index.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Nivelis/Desktop/CreativeButtons/css/default.css",
+		"/C/Users/Nivelis/Desktop/CreativeButtons/css/component.css",
+		"/C/Users/Nivelis/Desktop/portfolio.html",
+		"/C/Users/Nivelis/Desktop/js30/02-clock/style.css",
+		"/C/Users/Nivelis/Desktop/js30/02-clock/index.html",
+		"/C/Users/Nivelis/Desktop/rewood.html",
+		"/C/xampp/htdocs/rewood/.htaccess",
+		"/C/xampp/htdocs/rewood/projects.php",
+		"/C/xampp/htdocs/rewood/index.php",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/js/partials/methods.js",
+		"/F/Repozytoria/CALACOSTA/cala-estate/freshmail/newsletter.php",
+		"/C/Users/Nivelis/Desktop/sdfsdf.html",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/components/page-footer.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/dp_components/page-footer.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/dp_components/social.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/dp_components/mini-blog.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/dp_components/blog.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/components/blog.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/components/ui.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/dp_components/ui.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/inc/polylang.php",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/components/properties.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/dp_components/properties.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/components/mini-blog.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/domus-prime.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/dp_components/contact.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/dp_components/vars.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/components/page-front.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/components/nav.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/dp_components/nav.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/vendor/select2.css",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/vendor/nouislider.css",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/dp_components/nouislider.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/dp_components/select2.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/fordevelopers.php",
+		"/F/Repozytoria/CALACOSTA/cala-estate/homepage.php",
+		"/F/Repozytoria/CALACOSTA/cala-estate/template_parts/page-front.php",
+		"/F/Repozytoria/CALACOSTA/cala-estate/footer.php",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/components/cookies.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/dp_components/cookies.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/Gruntfile.js",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/style.scss",
+		"/C/Users/Nivelis/Desktop/index.html",
+		"/F/Repozytoria/CALACOSTA/cala-estate/src/css/components/vars.scss",
+		"/F/Repozytoria/CALACOSTA/cala-estate/inc/theme-support.php",
+		"/F/Repozytoria/CALACOSTA/cala-estate/inc/template-parts.php",
+		"/F/Repozytoria/CALACOSTA/cala-estate/inc/metabox.php",
+		"/F/Repozytoria/CALACOSTA/cala-estate/inc/manage-columns.php"
+	],
+	"find":
+	{
+		"height": 86.0
+	},
+	"find_in_files":
+	{
+		"height": 194.0,
+		"where_history":
+		[
+			"/Users/Nivelis/Desktop/Portfolio/src",
+			"F:\\Repozytoria\\CALACOSTA\\cala-estate"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dataset\n",
+			"debounce\n",
+			"();\n",
+			"console",
+			"tween",
+			"twee",
+			"console",
+			"test",
+			"console",
+			"parseInt",
+			"inOutQuintic",
+			"indexOf",
+			"index",
+			"rotate",
+			"Tween",
+			"tween",
+			"console",
+			"setCss",
+			"getCssUnit",
+			"console",
+			".to",
+			"e.",
+			"e",
+			"shadow",
+			"solid",
+			"itemTop",
+			"this.html",
+			"scrollTop",
+			"100%",
+			"animation-wrapper",
+			"7px",
+			"xhalf",
+			";\n",
+			".input--blue",
+			".noUi-connect",
+			"cookies",
+			"calacosta-theme",
+			"logo",
+			"full",
+			"'full'",
+			".noUi-handle:before, .noUi-handle:after",
+			"utf8_general_ci",
+			"utf8mb4_unicode_520_ci",
+			"calacosta2",
+			"calacosta.",
+			"calacosta2.wiktormazur.pl",
+			"wp_upload_dir",
+			"displa",
+			"h4",
+			".blog-item__image-wrapper",
+			".blog-item__image-wrapper h1",
+			"tag-cloud-wrapper",
+			"h2",
+			"tag",
+			"newsletter-form-container",
+			"$item->",
+			"Willa Costa Blanca",
+			"icomoon",
+			"Nivelis",
+			"&amp;",
+			"&amp",
+			"nbsp",
+			"s_prop",
+			"property__text",
+			"Usuń taksonomię",
+			"submit",
+			"section-description",
+			"display",
+			"newsletter-form-container__form",
+			"menu__item ",
+			"properties-container__property__heading",
+			"container__property__additional-info",
+			"property__social",
+			"revea",
+			"site_url",
+			"$_POST",
+			"property__traits__item",
+			"\"title\":",
+			"FOTOGRAFIA",
+			"MAZMENFOTOGRAFIA",
+			"MAZMEN FOTOGRAFIA",
+			"MAZMEN FOTOGRAFIA ",
+			"$i",
+			"array_push",
+			"iso",
+			"addr",
+			"debug",
+			"();\n",
+			"main-navigation__language-select",
+			"social",
+			"reveal-many",
+			"white",
+			"width",
+			"select2",
+			"draggable",
+			"single",
+			"margin:",
+			"h2",
+			"tag",
+			".select2-selection__rendered li",
+			".select2-container--default .select2-selection--multiple .select2-selection__rendered li",
+			".select2-search__field",
+			"#444",
+			".select2-container--default .select2-selection--single",
+			"5897fb",
+			"rad",
+			"width",
+			"handle",
+			"width='190px'",
+			"width='200px'",
+			"kontakt",
+			"kontakt-social",
+			"footer .title",
+			"title",
+			"social ul",
+			"fa",
+			"footer",
+			"p {",
+			"p ",
+			"replace",
+			"social",
+			"c8d7d4",
+			"slick-slide",
+			"0",
+			"login",
+			"include",
+			"require",
+			"content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"parseFloat",
+			"utf8mb4_unicode_ci",
+			"utf8_general_ci",
+			"calacosta.com",
+			",",
+			"$_GET",
+			"reveal-properties",
+			"class='logo-download-button'",
+			"width='190px'",
+			"sqlsrv"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14459,
+								14459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3663.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								688,
+								688
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "base.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								819,
+								819
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/styles/vendor/fonts.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "production.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 76.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.vcs":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "wiktormazur.sublime-project",
+	"replace":
+	{
+		"height": 140.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

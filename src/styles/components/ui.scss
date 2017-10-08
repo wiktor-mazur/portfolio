@@ -1,0 +1,102 @@
+a
+{
+	color: #000;
+	text-decoration: none;
+	border: 0;
+	border-bottom: 1px dashed #000;
+}
+
+a:hover
+{
+	border-bottom-style: solid;
+}
+
+p, dt, dd
+{
+	font-size: 0.97rem;
+	color: #545454;
+	text-align: justify;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+	color: #231f20;
+	text-align: center;
+	font-family: $headings-font;
+	font-weight: normal;
+}
+
+.button
+{
+	color: #434348;
+	background: transparent;
+	border: 1px solid #c4c4c9;
+	cursor: pointer;
+	padding: 14px 19px;
+	display: inline-block;
+	font-size: 9px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	position: relative;
+	overflow: hidden;
+	transition: all 0.3s ease;
+
+	&:after {
+		content: '';
+		position: absolute;
+		z-index: -1;
+
+		width: 120%;
+		height: 0;
+		top: 50%;
+		left: 50%;
+		background: #000;
+		opacity: 0;
+		transform: translateX(-50%) translateY(-50%) rotate(45deg);
+
+		transition: all 0.4s ease;
+	}
+
+	&:hover:after {
+		height: 200%;
+		opacity: 1;
+		transition: all 0.3s ease;
+	}
+
+	&:focus {
+		border-style: dashed;
+		border-color: #000000;
+		outline: none;
+	}
+
+	&:hover,
+	&:active {
+		color: #ffffff;
+		border-style: solid;
+		border-color: #000000;
+		z-index: 0;
+		transition: all 0.3s ease;
+	}
+
+	&:active:after {
+		height: 200%;
+		opacity: 1;
+		transition: all 0.4s ease;
+	}
+
+	&--small {
+		padding: 10px 17px;
+		font-size: 8px;
+	}
+
+	&--portfolio {
+		margin-right: 5px;
+		margin-top: 5px;
+	}
+}

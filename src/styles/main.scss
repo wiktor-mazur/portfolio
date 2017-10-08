@@ -1,0 +1,42 @@
+@import 'vendor/normalize';
+@import 'vendor/fontello';
+@import 'vendor/fonts';
+
+@import 'config/typography';
+@import 'config/measurements';
+
+@import 'utilities/clearfix';
+@import 'utilities/sr-only';
+@import 'utilities/particles';
+@import 'utilities/menu-hamburger';
+@import 'utilities/revealer';
+
+body,html
+{
+	font-family: $primary-font;
+	font-size: $global-font-size;
+	font-weight: 300;
+	line-height: 1.6;
+	color: $primary-font-color;
+	background-color: #ffffff;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	overflow-x: hidden;
+}
+
+*
+{
+	box-sizing: border-box; 
+}
+
+@import 'components/ui';
+@import 'components/general';
+@import 'components/page-header';
+@import 'components/navigation';
+@import 'components/about';
+@import 'components/offert';
+@import 'components/portfolio';
+@import 'components/contact';
+@import 'components/page-footer';
+@import 'components/shapes';
